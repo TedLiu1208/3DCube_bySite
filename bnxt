@@ -1,7 +1,8 @@
 /**
 
-Publisher: Business Next
-Inventory: BIR
+Creative Module: 3DCube_noAdx
+Publisher: Manager Today
+Inventory: MIR
 
 **/
 
@@ -32,7 +33,8 @@ console.log("for Bnxt");
 
 /**
 
-Publisher: Business Next
+Creative Module: 3DCube_noAdx
+Publisher: Manager Today
 Inventory: MIR
 
 **/
