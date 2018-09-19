@@ -1,0 +1,29 @@
+/**
+Publisher: Business Next
+Inventory: BIR
+
+**/
+
+//Coding start
+//Copy and paste and change the INS tag to the newest serving tag
+
+<script>
+var outers = top.document.querySelectorAll('#ad-view-after-article-01-table-xs_0');
+
+var layer1 = outers[0].querySelectorAll("iframe");
+var layer2 = layer1[0].contentDocument.querySelectorAll("iframe");
+var layer3 = layer2[0].contentDocument.querySelectorAll("iframe");
+var layer4 = layer3[0].contentDocument.getElementById("gpt_unit_%%ADUNIT%%_1_ad_container");
+var layerins = layer1[0].parentElement;
+
+outers[0].setAttribute("style","width:350px;height:350px;padding:5px 0 0 0;margin:0 auto;border-width:0px;");
+layer1[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer2[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer3[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer4.setAttribute("style","width:350px;height:350px;border-width:0px;");
+layerins.setAttribute("style","width:350px;height:350px;border-width:0px;");
+
+console.log("for Bnxt");
+
+</script>
+<ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.153784BUSINESSNEXTTAIWAN/B21710152.229235504' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
