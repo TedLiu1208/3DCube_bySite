@@ -1,4 +1,5 @@
 /**
+
 Publisher: Business Next
 Inventory: BIR
 
@@ -26,4 +27,41 @@ layerins.setAttribute("style","width:350px;height:350px;border-width:0px;");
 console.log("for Bnxt");
 
 </script>
+<ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.153784BUSINESSNEXTTAIWAN/B21710152.229235504' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
+
+
+/**
+
+Publisher: Business Next
+Inventory: MIR
+
+**/
+
+//Coding start
+//Copy and paste and change the INS tag to the newest serving tag
+
+<script>
+
+top.document.getElementById("google_ads_iframe_%%ADUNIT%%_0__container__").parentElement.parentElement.parentElement.style.backgroundColor = "white";
+
+top.document.getElementById("google_ads_iframe_%%ADUNIT%%_0__container__").parentElement.parentElement.parentElement.parentElement.style.overflow = "visible";
+
+top.document.getElementById("google_ads_iframe_%%ADUNIT%%_0__container__").parentElement.parentElement.parentElement.style.backgroundColor = "white";
+var cc =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']").parentElement;
+cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto;position: relative;box-sizing: border-box;");
+
+var dd =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']");
+
+dd.setAttribute("style","width:350px;height:350px;margin: 0 auto;box-sizing: border-box;");
+
+
+var ee =top.document.querySelector("iframe[id='google_ads_iframe_%%ADUNIT%%_0']");
+
+ee.setAttribute("width","350px");
+ee.setAttribute("height","350px");
+ee.setAttribute("style","width:350px !important;height:350px;");
+
+console.log("For bsxt _middle");
+</script>
+
 <ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.153784BUSINESSNEXTTAIWAN/B21710152.229235504' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
