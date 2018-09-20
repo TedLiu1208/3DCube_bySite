@@ -24,3 +24,31 @@ ee.setAttribute("height","350px");
 console.log("for manager");
 </script>
 <ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.160629MANAGERTODAY/B21710152.229506252' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
+
+/**
+
+Creative Module: 3DCube_noAdx
+Publisher: Manager Today
+Inventory: BIR
+
+**/
+
+//Coding start
+//Copy and paste and change the INS tag to the newest serving tag
+
+<script>
+var outers = top.document.querySelectorAll("#post-body .ads ins");
+
+var layer1 = outers[0].querySelectorAll("iframe");
+var layer2 = layer1[0].contentDocument.querySelectorAll("iframe");
+var layer3 = layer2[0].contentDocument.querySelectorAll("iframe");
+var layer4 = layer3[0].contentDocument.querySelectorAll("iframe");
+
+outers[0].setAttribute("style","width:350px;height:350px;padding:5px 0 0 0;margin:0 auto;border-width:0px;");
+layer1[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer2[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer3[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
+layer3[0].setAttribute("style","width:350px;height:350px;border-width:0px;overflow:visible;");
+</script>
+console.log("for manager_bottom");
+<ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.160629MANAGERTODAY/B21710152.229506252' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
