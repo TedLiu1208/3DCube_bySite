@@ -72,6 +72,11 @@ if(top.document.querySelector("div[id='google_ads_iframe_/8457209/bn_m_in-articl
     ee.setAttribute("height","350px");
     ee.setAttribute("style","width:350px !important;height:350px;");
 }
+
+console.log("For bnxt _middle_1");
+</script>
+
+<ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.153784BUSINESSNEXTTAIWAN/B21710152.229235504' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
 /**
 
 Creative Module: 3DCube_noAdx
@@ -104,7 +109,7 @@ ee.setAttribute("width","350px");
 ee.setAttribute("height","350px");
 ee.setAttribute("style","width:350px !important;height:350px;");
 
-console.log("For bsxt _middle_2");
+console.log("For bnxt _middle_2");
 </script>
 
 <ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.153784BUSINESSNEXTTAIWAN/B21710152.229235504' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
