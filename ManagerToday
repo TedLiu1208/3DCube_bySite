@@ -49,6 +49,7 @@ layer1[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
 layer2[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
 layer3[0].setAttribute("style","width:350px;height:350px;border-width:0px;");
 layer3[0].setAttribute("style","width:350px;height:350px;border-width:0px;overflow:visible;");
-</script>
 console.log("for manager_bottom");
+</script>
+
 <ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.160629MANAGERTODAY/B21710152.229506252' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
