@@ -1,11 +1,12 @@
 # 3DCube_bySite
-This is a 
+There are snippets for serving 3dCube creative to publisher. Due to the  
 
 ## SiteList
 1. Popdaily
 2. Juksy
 3. Business Next
 4. Manager Today
+5. Babyou
 
 ## How to use the Snippets?
 To use the snippet of the Js code, you need to follow the steps below
