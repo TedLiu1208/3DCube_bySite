@@ -1,0 +1,25 @@
+/**
+Creative Module: 3DCube_noAdx
+Publisher: standard
+Inventory: standard
+
+**/
+<script>
+var cc =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']").parentElement;
+cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto;position: relative;box-sizing: border-box;");
+
+var dd =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']");
+
+dd.setAttribute("style","width:350px;height:350px;margin: 0 auto;box-sizing: border-box;");
+
+
+var ee =top.document.querySelector("iframe[id='google_ads_iframe_%%ADUNIT%%_0']");
+
+ee.setAttribute("width","350px");
+ee.setAttribute("height","350px");
+ee.setAttribute("style","width:350px !important;height:350px;");
+
+console.log("Basic Module);
+</script>
+
+<ins class='dcmads' style='display:inline-block;width:350px;height:350px' data-dcm-placement='N558603.1921406LIBERTYTIMESNET/B21710152.229438082' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
