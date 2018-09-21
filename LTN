@@ -23,7 +23,7 @@ ee.setAttribute("width","350px");
 ee.setAttribute("height","350px");
 ee.setAttribute("style","width:350px !important;height:350px;");
 
-console.log("LTN");
+console.log("for LTN");
 
 </script>
 
