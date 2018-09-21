@@ -1,20 +1,14 @@
 /**
 
 Creative Module: 3DCube_noAdx
-Publisher: Babyou
-Inventory: ATF/MIR/BIR
+Publisher: XinMedia
+Inventory: BTR
 
 **/
 
 //Coding start
 //Copy and paste and change the INS tag to the newest serving tag
 
-/**
-Creative Module: 3DCube_noAdx
-Publisher: standard
-Inventory: standard
-
-**/
 <script>
 var cc =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']").parentElement;
 cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto;position: relative;box-sizing: border-box;");
