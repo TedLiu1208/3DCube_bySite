@@ -9,8 +9,9 @@ Inventory: MIR
 //Coding start
 //Copy and paste and change the INS tag to the newest serving tag
 <script>
+
 var cc =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']").parentElement;
-cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto;position: relative;box-sizing: border-box;");
+cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto !important;position: relative;box-sizing: border-box;");
 
 var dd =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']");
 
@@ -21,7 +22,7 @@ var ee =top.document.querySelector("iframe[id='google_ads_iframe_%%ADUNIT%%_0']"
 
 ee.setAttribute("width","350px");
 ee.setAttribute("height","350px");
-ee.setAttribute("style","width:350px !important;height:350px;");
+ee.setAttribute("style","width:350px !important;height:350px;background:white;");
 
 console.log("for LTN");
 
