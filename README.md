@@ -8,6 +8,7 @@ There are snippets for serving 3dCube creative to publisher. Due to the
 4. Manager Today
 5. Babyou
 6. LTN
+7. Cool3C
 
 ## How to use the Snippets?
 To use the snippet of the Js code, you need to follow the steps below
