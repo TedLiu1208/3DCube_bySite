@@ -1,12 +1,12 @@
 /**
 Creative Module: 3DCube_noAdx
 Publisher: BusinessToday
-Inventory: BIR
+Inventory: MIR/BIR
 
 **/
 <script>
 var cc =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']").parentElement;
-cc.setAttribute("style","display:block;width:350px;height:350px;margin:0 auto;position: relative;box-sizing: border-box;");
+cc.setAttribute("style","display:block;width:350px;height:350px;margin-left:-175px;left:50%;position: relative;box-sizing: border-box;");
 
 var dd =top.document.querySelector("div[id='google_ads_iframe_%%ADUNIT%%_0__container__']");
 
