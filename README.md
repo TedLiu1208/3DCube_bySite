@@ -8,15 +8,15 @@ There are snippets for serving 3dCube creative to publisher. Due to the
 4. Manager Today
 5. Babyou
 6. LTN
-7. Cool3C
-8. Babyou
-9. Apple Daily
-10.Business Today
-11.China Times
-12.Mook
-13.Sport Vision
-14.The News Lens
-15.Xin media
+7. Cool3C /n
+8. Babyou /n
+9. Apple Daily /n
+10.Business Today /n
+11.China Times /n
+12.Mook /n
+13.Sport Vision /n
+14.The News Lens /n
+15.Xin media /n
 
 ## How to use the Snippets?
 To use the snippet of the Js code, you need to follow the steps below
